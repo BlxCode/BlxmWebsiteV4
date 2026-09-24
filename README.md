@@ -1,42 +1,47 @@
-# sv
+# My new website:
+My new website was built in svelte.
+this is actually the first project i ever made with svelte, and I think svelte is awesome! esepcially with the reactibility.
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
 
+
+# how to get this to work if you don't know svelte like me litterally 10 minutes ago
+it's quite simple. just blindly copy and paste commands into the scary terminal
+
+## get this repo on your computer
+run: 
 ```sh
-# create a new project
-npx sv create my-app
+git clone https://github.com/BlxCode/BlxmWebsiteV4.git
+```
+## get node and npm if you dont have it already
+donwload it from
+https://nodejs.org
+
+check if you have:
+run:
+```sh
+node -v
 ```
 
-To recreate this project with the same configuration:
-
+## do stuff with npm
+run:
 ```sh
-# recreate this project
-npx sv@0.17.1 create --template minimal --no-types --install npm ./
+cd BlxmWebsiteV4
 ```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
+then:
 ```sh
+npm init
+```
+npm init will download all the packages needed to run this
+
+## running it
+``` sh
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
-
-```sh
+## building it (idk why but here):
+``` sh
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
