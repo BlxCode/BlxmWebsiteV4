@@ -1,6 +1,6 @@
- <h2 id="about" class="animate-fadeInWait text-3xl mx-auto font-medium text-center">Projects:</h2>
+ <h2 id="about" class="mt-10 animate-fadeInWait text-3xl mx-auto font-medium text-center">Projects:</h2>
 <div
-  class="animate-fadeInWait mx-auto mt-10 p-5 text-2xl font-medium text-center "
+  class="animate-fadeInWait mx-auto mb-10 p-5 text-2xl font-medium text-center "
 >
  
   <div class="projectCard mx-auto max-w-11/12 min-h-fit">
@@ -18,12 +18,12 @@
     <div class="top-10 relative">
     <a class="underline" href="https://flatcraft.blxm.me" target="_blank"
       ><button
-        class="p-3 w-60 m-1 bg-blue-950 cursor-pointer hover:scale-105 active:scale-95"
+        class="p-3 w-60 m-1 bg-blue-950 cursor-pointer hover:scale-105 active:scale-95 shadow-sm"
         ><i class="fas fa-external-link-alt"></i> View Project</button
       ></a
     > <a class="underline" href="https://github.com/blxcode/flatcraft" target="_blank"
       ><button
-        class="p-3 w-40 m-1 bg-blue-950 cursor-pointer hover:scale-105 active:scale-95"
+        class="p-3 w-40 m-1 bg-blue-950 cursor-pointer hover:scale-105 active:scale-95 shadow-sm"
         ><i class="fab fa-github"></i> GitHub</button
       ></a
     >

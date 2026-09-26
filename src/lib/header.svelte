@@ -62,7 +62,7 @@ id="top"
     onclick={() => {
       updateSelectedCard("Idiot");
     }}
-    class="animate-fadeInWait p-3 cursor-pointer hover:bg-blue-900 hover:scale-105 active:scale-95 underline"
+    class="animate-fadeInWait p-3 cursor-pointer hover:bg-blue-900 hover:scale-105 active:scale-95 underline shadow-sm"
     >Idiot</button
   >
   <button
@@ -70,7 +70,7 @@ id="top"
     onclick={() => {
       updateSelectedCard("Developer");
     }}
-    class="animate-fadeInWait p-3 cursor-pointer hover:bg-blue-900 hover:scale-105 active:scale-95 underline"
+    class="animate-fadeInWait p-3 cursor-pointer hover:bg-blue-900 hover:scale-105 active:scale-95 underline shadow-sm"
     >Developer</button
   >
   <button
@@ -78,7 +78,7 @@ id="top"
     onclick={() => {
       updateSelectedCard("YouTuber");
     }}
-    class="animate-fadeInWait p-3 cursor-pointer hover:bg-blue-900 hover:scale-105 active:scale-95 underline"
+    class="animate-fadeInWait p-3 cursor-pointer hover:bg-blue-900 hover:scale-105 active:scale-95 underline shadow-sm"
     >YouTuber</button
   >
 </div>

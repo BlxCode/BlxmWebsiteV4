@@ -3,10 +3,12 @@
   import Header from "$lib/header.svelte";
   import About from "$lib/about.svelte";
   import Contact from "$lib/contact.svelte";
+  import TechStack from "$lib/techStack.svelte";
 </script>
 
 <Navbar class="sticky" />
 <Header />
+<TechStack />
 <About />
 <Contact />
 <style lang="postcss">

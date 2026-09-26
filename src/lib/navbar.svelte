@@ -1,6 +1,6 @@
 <nav
 
-  class="w-full h-15 bg-gray-900 p-4 text-white flex items-center justify-between mb-20 sticky top-0 z-50"
+  class="w-full h-15 bg-gray-900 p-4 text-white flex items-center justify-between mb-20 sticky top-0 z-50 shadow-sm"
 >
   <a href="./">Top</a>
   <div class="space-x-4">
