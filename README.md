@@ -2,7 +2,8 @@
 My new website was built in svelte.
 this is actually the first project i ever made with svelte, and I think svelte is awesome! esepcially with the reactibility.
 
-
+## But did you already have a website?
+Yes, but my website is old, and it isn't up to my quality standareds. It's just easier to make a new website instead of fixing the quality issues.
 
 
 

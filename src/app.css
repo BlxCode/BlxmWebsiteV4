@@ -28,3 +28,14 @@
     --animate-fadeInWait: fadeInWait 1.5s ease-in-out;
     --animate-fadeIn: fadeIn 0.75s ease-in-out;
   }
+  @layer components{
+    .projectCard{
+      background-color: var(--color-blue-900);
+      min-width:10rem;
+      min-height:15rem;
+      width: 30rem;
+      height: 25rem;
+      @apply shadow-sm;
+    }
+
+  }

@@ -6,7 +6,7 @@
   let cardDescriptions = {
     Idiot:
       "There were many times when I was an idiot, but I learned from my mistakes and grew as a person.",
-    Developer: "I am a 'developer' and I love to code. My GitHub is @BlxCode.",
+    Developer: "I am a 'developer' and I love to code. My GitHub is @BlxCode. I know many programming languages, but my favorite is Svelte.",
     YouTuber:
       "I am a very small YouTuber, but I love to create content. My YouTube channel is @bloxdmaster",
   };
@@ -45,6 +45,7 @@
 </script>
 
 <h1
+id="top"
   class=" flex text-9xl font-medium text-center flex-wrap justify-center items-center gap-4 animate-fadeIn mb-0.5"
 >
   I'm <span class="font-bold drop-shadow-[0px_0px_19px_rgba(0,17,255,0.7)]">
