@@ -1,5 +1,5 @@
 <div class="w-1/3 max-w-1/2 mx-auto flex flex-col items-center justify-center gap-4 animate-fadeInWait mt-10">
-<h2 class="text-3xl font-bold">Tech Stack</h2>
+<h2 class="text-3xl font-bold m-0">Tech Stack</h2>
 
 <br>
 <h3>Frontend</h3>
