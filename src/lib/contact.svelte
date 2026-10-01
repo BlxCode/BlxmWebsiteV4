@@ -1,6 +1,6 @@
 <div
   id="contact"
-  class="animate-fadeInWait w-1/4 mx-auto mt-10 p-5 text-2xl font-medium text-center"
+  class="animate-fadeInWait  mx-auto mt-10 p-5 text-2xl font-medium text-center"
 >
   <h2>Contact Me:</h2>
   <a class="underline" href="https://youtube.com/@bloxdmaster" target="_blank"
