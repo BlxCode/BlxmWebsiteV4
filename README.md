@@ -33,8 +33,10 @@ cd BlxmWebsiteV4
 then:
 ```sh
 npm init
+
+npm install
 ```
-npm init will download all the packages needed to run this
+npm install will download all the packages needed to run this
 
 ## running it
 ``` sh

@@ -9,4 +9,4 @@
 <br>
 <h2  class="mt-10 animate-fadeInWait text-3xl font-bold text-center mb-0.5">Stats</h2>
 <img src="https://ghstats.dev/api/card?username=blxcode&show_ring=false&hide_border=true&theme=nord" class="animate-fadeInWait mx-auto mt-0.5 max-w-11/12" draggable = "false" alt="GitHub Stats Card" />
-<img src="https://ghstats.dev/api/langs?username=blxcode&hide_border=true&hide_title=true&max_langs=7&layout=grid&theme=nord" class="animate-fadeInWait mx-auto mt-1 max-w-11/12" draggable = "false"  alt="Top Languages" />
+<img src="https://ghstats.dev/api/langs?username=blxcode&hide_border=true&hide_title=true&max_langs=7&layout=grid&theme=nord" class="animate-fadeInWait2 mx-auto mt-1 max-w-11/12" draggable = "false"  alt="Top Languages" />

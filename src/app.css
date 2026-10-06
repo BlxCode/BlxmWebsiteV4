@@ -24,7 +24,24 @@
         transform: translateY(0);
       }
     }
+     @keyframes fadeInWait2 {
+      0% {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+      75% {
+        opacity: 0;
+        transform: translateY(-10px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
     
+
+        --animate-fadeInWait2: fadeInWait2 2.5s ease-in-out;
+
     --animate-fadeInWait: fadeInWait 1.5s ease-in-out;
     --animate-fadeIn: fadeIn 0.75s ease-in-out;
   }
